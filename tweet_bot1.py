@@ -33,5 +33,5 @@ for tweet in public_tweets["statuses"]:
     print(tweet_author)
 
     
-while(True):
-    time.sleep(60)
+#while(True):
+#    time.sleep(60)
